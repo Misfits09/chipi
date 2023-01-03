@@ -1,4 +1,4 @@
-module github.com/schmurfy/chipi
+module github.com/Misfits09/chipi
 
 go 1.18
 
